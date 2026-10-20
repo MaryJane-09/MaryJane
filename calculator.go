@@ -29,10 +29,6 @@ func squareRoot(a float64) float64 {
     return n
 }
 
-// func power(a float64) float64 {
-
-// }
-
 func helpUser(){
         text := []string{
             "",
